@@ -4,7 +4,7 @@
 
 - [Vaishnavi Suryawanshi](https://github.com/VaishnaviSW01)
 - [Omkar Nalgirkar]
-- [Trupti Naukarkar](https://github.com/truptinaukarkar)
+- [Trupti Naukarkar ](https://github.com/truptinaukarkar)
 - [Yassine El Alami](https://github.com/ElAlamiY)
 - [Kotyara5243](https://github.com/Kotyara5243)
 - [deepak mishra](https://github.com/BEPAWSITIVE)
